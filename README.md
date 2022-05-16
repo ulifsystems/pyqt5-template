@@ -10,13 +10,13 @@
 
 # How to install 
 Linux:
-`wget https://gendol.neocities.org/network/PyQt5Template.zip`
-`sudo apt install unzip`
-`unzip PyQt5Template.zip`
+`wget https://gendol.neocities.org/network/PyQt5Template.zip`  
+`sudo apt install unzip`  
+`unzip PyQt5Template.zip`  
 
 Mac OS:
-`brew install wget`
-`wget https://gendol.neocities.org/network/PyQt5Template.zip`
+`brew install wget`  
+`wget https://gendol.neocities.org/network/PyQt5Template.zip`  
 
 Windows:
 Download from Github
