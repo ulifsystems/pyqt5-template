@@ -9,14 +9,14 @@
 [QT Website](qt.io)  
 
 # How to install 
-Linux:
+Linux:  
 `wget https://gendol.neocities.org/network/PyQt5Template.zip`  
 `sudo apt install unzip`  
 `unzip PyQt5Template.zip`  
 
-Mac OS:
+Mac OS:  
 `brew install wget`  
 `wget https://gendol.neocities.org/network/PyQt5Template.zip`  
 
-Windows:
+Windows:  
 Download from Github
